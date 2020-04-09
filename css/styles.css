@@ -1,0 +1,15 @@
+.welcome {
+    background-image: url(../img/zenny-welcome2.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 920px;
+}
+
+.startup-name {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 250px;
+    text-align: center;
+    padding-top: 220px;
+    letter-spacing: 40px;
+    color: rgba(255, 255, 255, 0.35);
+}
